@@ -19,5 +19,5 @@ Testimonials from satisfied customers
 Newsletter subscription
 Footer with site links and social media
 
-<a href="https://mortezabaghfar2005.github.io/Coffee-Online-Shop-Landing-Page/"> OCoffee Online Shop Landing Page
+<a href="https://mortezabaghfar2005.github.io/Coffee-Online-Shop-Landing-Page/"> Coffee Online Shop Landing Page
 
